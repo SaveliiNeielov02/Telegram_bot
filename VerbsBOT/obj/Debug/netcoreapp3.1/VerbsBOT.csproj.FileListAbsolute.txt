@@ -1,0 +1,16 @@
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\bin\Debug\netcoreapp3.1\VerbsBOT.exe
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\bin\Debug\netcoreapp3.1\VerbsBOT.deps.json
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\bin\Debug\netcoreapp3.1\VerbsBOT.runtimeconfig.json
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\bin\Debug\netcoreapp3.1\VerbsBOT.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\bin\Debug\netcoreapp3.1\VerbsBOT.dll
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\bin\Debug\netcoreapp3.1\VerbsBOT.pdb
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\obj\Debug\netcoreapp3.1\VerbsBOT.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\obj\Debug\netcoreapp3.1\VerbsBOT.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\obj\Debug\netcoreapp3.1\VerbsBOT.AssemblyInfo.cs
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\obj\Debug\netcoreapp3.1\VerbsBOT.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\obj\Debug\netcoreapp3.1\VerbsBOT.csproj.CopyComplete
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\obj\Debug\netcoreapp3.1\VerbsBOT.dll
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\obj\Debug\netcoreapp3.1\VerbsBOT.pdb
+C:\Users\Owner\source\repos\VerbsBOT\VerbsBOT\obj\Debug\netcoreapp3.1\VerbsBOT.genruntimeconfig.cache

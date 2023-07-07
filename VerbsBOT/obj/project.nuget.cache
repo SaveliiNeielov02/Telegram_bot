@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "586dRvXEmxLBdBf4JkoGMvaOQbVcvf+yJc+36ib4hvujmftW4Oo753JeMPkY9zv1k872a04AJfb5TEns5rl8Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\VerbsBOT\\VerbsBOT\\VerbsBOT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
